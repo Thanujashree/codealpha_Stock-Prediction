@@ -53,9 +53,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or suggestions, please [contact us](mailto:your.email@example.com).
 
 Stock Prediction by LSTM is an exploration of deep learning in predicting stock prices. Join us in understanding and improving the capabilities of LSTM networks in financial forecasting!
 
-![Stock Prediction by LSTM Logo](stock-prediction-lstm-logo.png)
 
