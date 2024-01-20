@@ -17,7 +17,7 @@ Stock Prediction by LSTM employs LSTM networks, a type of recurrent neural netwo
 ## Getting Started
 
 1. **Clone the Repository:**
- git clone https://github.com/yourusername/stock-prediction-lstm.git
+ git clone https://github.com/Thanujashree/codealpha_Stock-Prediction.git
 
 2. **Open the Jupyter Notebook:**
 - Install Jupyter Notebook if not already installed: `pip install notebook`
@@ -35,7 +35,7 @@ Stock Prediction by LSTM employs LSTM networks, a type of recurrent neural netwo
 
 ## Demo
 
-[View the demo video of the output](https://nbviewer.jupyter.org/github/yourusername/stock-prediction-lstm/blob/main/stock-prediction-lstm.ipynb)
+[View the demo video of the output](https://drive.google.com/file/d/1SYzMgCAK8d6tUyuQo5EVXVJkzRvGavJR/view?usp=sharing)
 
 ## Contributing
 
